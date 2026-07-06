@@ -41,17 +41,17 @@ The dataset (`data/project1_df.csv`) contains one row per transaction with the f
 
 ## Selected Results
 
-Correlation between numeric features:
+| Correlation Heatmap | Pair Plot |
+|:-------------------:|:---------:|
+| ![](images/Heatmap.png) | ![](images/Pairplot.png) |
 
-![Correlation Heatmap](images/Heatmap.png)
+| Customer Spending Distribution | Age Group & Gender Analysis |
+|:-------------------------------:|:---------------------------:|
+| ![](images/Distribution%20of%20Total%20Gross%20Spending%20per%20Customer.png) | ![](images/age_group_gender_analysis.png) |
 
-Yearly gross sales by product category:
-
-![Yearly Gross Sales by Product Category](images/Yearly%20Gross%20Sales%20by%20Product%20Category.png)
-
-Gross and net sales by purchase method:
-
-![Gross and Net Sales by Purchase Method](images/Total%20Gross%20and%20Net%20Sales%20by%20Purchase%20Method.png)
+| Seasonal Sales | Yearly Sales |
+|:--------------:|:------------:|
+| ![](images/Total%20Gross%20Sales%20by%20Season%20and%20Product%20Category.png) | ![](images/Yearly%20Gross%20and%20Net%20Sales.png) |
 
 Additional figures are available in the [`images/`](images/) directory.
 
